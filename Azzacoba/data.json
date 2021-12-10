@@ -1,0 +1,364 @@
+[
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "smk",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 25,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "sma",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "sma",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 25,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"prestasi" : "tidak_ada",
+		"status" : 0
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja3",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "tidak_ada",
+		"status" : 0
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja3",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "tidak_ada",
+		"status" : 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 23,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "sma",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 24,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "tidak_ada",
+		"status" : 0
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja3",
+		"pendidikan" : "smk",
+		"tinggi" : "ideal",
+		"prestasi" : "tidak_ada",
+		"status" : 0
+	},
+	{
+		"usia" : 23,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status" : 0
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+
+
+	{
+		"usia" : 23,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status" : 1
+	},
+	{
+		"usia" : 23,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"prestasi" : "tidak_ada",
+		"status": 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 23,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "sma",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 24,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"prestasi" : "tidak_ada",
+		"status": 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja3",
+		"pendidikan" : "sma",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status": 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"prestasi" : "ada",
+		"status": 0
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "sma",
+		"tinggi" : "ideal",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 22,
+		"pengalaman_kerja" : "kerja1",
+		"pendidikan" : "sma",
+		"tinggi" : "ideal",
+		"prestasi" : "tidak_ada",
+		"status": 0
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"prestasi" : "tidak_ada",
+		"status": 0
+	},
+	{
+		"usia" : 21,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "ada",
+		"status": 1
+	},
+	{
+		"usia" : 20,
+		"pengalaman_kerja" : "kerja2",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"prestasi" : "tidak_ada",
+		"status": 1
+	}
+]
